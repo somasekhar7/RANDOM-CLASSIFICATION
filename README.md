@@ -1,6 +1,6 @@
 ### EX NO: 01
 ### DATE: 01-04-2022
-# <p align="center"> RANDOM CLASSIFICATION</P>
+## <p align="center"> RANDOM CLASSIFICATION</P>
 ## Aim:
   To write a python program to perform random classification.
 ## Equipments Required:
@@ -16,6 +16,7 @@
   3.	Each decision tree will generate an output.
   4.	Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 ## Program:
+```
   /* 
   Program to implement random classification.
   
@@ -23,7 +24,9 @@
   
   Register Number : 212219040024 
 */ 
-,,,
+```
+```
+
 import matplotlib.pyplot as plt
 
 from sklearn import datasets
@@ -43,7 +46,7 @@ plt.xlabel("feature 1")
 plt.ylabel("feature 2")
 
 plt.title("Random Classification Data with 2 classes")
- ,,, 
+```
  ## Output:
   ![image](https://user-images.githubusercontent.com/78737336/164069701-e258af5b-e90d-4553-bb20-44970e98133a.png)
 
