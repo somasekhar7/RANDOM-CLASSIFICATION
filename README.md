@@ -1,6 +1,6 @@
 ### EX NO: 01
 ### DATE: 01-04-2022
-## <p align="center"> RANDOM CLASSIFICATION</P>
+# <p align="center"> RANDOM CLASSIFICATION</P>
 ## Aim:
   To write a python program to perform random classification.
 ## Equipments Required:
